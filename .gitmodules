@@ -1,3 +1,3 @@
 [submodule "data/content/themes/promenade"]
-		path = data/content/themes/promenade
-			url = https://github.com/kabukky/promenade
+	path = data/content/themes/promenade
+	url = https://github.com/kabukky/promenade.git
