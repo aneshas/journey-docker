@@ -1,4 +1,4 @@
-data/data/
-data/https/
-data/images/
-data/themes
+data/content/data/*.*
+data/content/https/*.*
+data/content/images/*.*
+data/content/themes/*.*
