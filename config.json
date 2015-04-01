@@ -1,7 +1,0 @@
-{
-"HttpHostAndPort":":8080",
-"HttpsHostAndPort":":443",
-"HttpsUsage":"AdminOnly",
-"Url":"http://192.168.59.103",
-"HttpsUrl":"https://192.168.59.103"
-}
