@@ -2,3 +2,4 @@ data/content/data/*.*
 data/content/https/*.*
 data/content/images/*.*
 data/content/themes/*.*
+*.txt
